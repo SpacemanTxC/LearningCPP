@@ -24,3 +24,10 @@ bool myBool = true;
 
 //display Variables
 cout << "I have " << newNum << " in my pocket.";
+
+//declaring many Variables
+int x = 5, y = 6, z = 50;
+cout << x + y + z;
+
+//Constants are var that are unchanged
+const int superNumber = 100;
